@@ -4,10 +4,10 @@ esapi-hackathon
 Welcome to the ESAPI 3.x Hackathon!
 
 # Criteria for Judging
-- [ ] Community Need
-- [ ] Code Quality
-- [ ] Testability
-- [ ] Documentation
+- Community Need
+- Code Quality
+- Testability
+- Documentation
 
 
 # ESAPI-Core Maven Dependency
