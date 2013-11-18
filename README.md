@@ -36,5 +36,8 @@ Welcome to the ESAPI 3.x Hackathon!
 # Tools and Applications
 
 http://esapi.ci.cloudbees.com -- Jenkins
+
 http://repository-esapi.forge.cloudbees.com -- Maven Repository / File Hosting
+
 https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API -- OWASP Wiki
+
